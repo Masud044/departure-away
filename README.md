@@ -46,4 +46,4 @@ To learn more about Next.js, take a look at the following resources:
 
 ## Deploy on Vercel
 
-https://departure-away-rho.vercel.app/
+https://departure-away-git-main-masud044s-projects.vercel.app/
