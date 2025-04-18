@@ -10,6 +10,8 @@ Departure Away is a modern frontend web application built with Next.js, designed
 - DaisyUi
 - Lucide React Icon
 
+## It's a Team project
+
 ## Features
 
 Feature	Description
