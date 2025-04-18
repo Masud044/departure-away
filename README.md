@@ -13,13 +13,13 @@ Departure Away is a modern frontend web application built with Next.js, designed
 ## Features
 
 Feature	Description
--🧳 Tour Listings	Displays a list/grid of tour packages with images, pricing, ratings, and dates.
--🔍 Filtering & Search	Users can filter by price, location, duration, or type (e.g. adventure, luxury).
--📄 Detailed Tour Page	Clicking a tour opens a detail view with full itinerary, reviews, and booking options.
--🌐 Responsive UI	Mobile-first design using Tailwind CSS and responsive layouts.
--📦 Dynamic Routing	Each tour has a dynamic route using Next.js' file-based routing.
--⚡ Static + SSR Pages	Mix of statically generated and server-rendered pages for SEO and performance.
--📥 Contact/Booking Form	User can submit inquiries or bookings via form.
+- 🧳 Tour Listings	Displays a list/grid of tour packages with images, pricing, ratings, and dates.
+- 🔍 Filtering & Search	Users can filter by price, location, duration, or type (e.g. adventure, luxury).
+- 📄 Detailed Tour Page	Clicking a tour opens a detail view with full itinerary, reviews, and booking options.
+- 🌐 Responsive UI	Mobile-first design using Tailwind CSS and responsive layouts.
+- 📦 Dynamic Routing	Each tour has a dynamic route using Next.js' file-based routing.
+- ⚡ Static + SSR Pages	Mix of statically generated and server-rendered pages for SEO and performance.
+- 📥 Contact/Booking Form	User can submit inquiries or bookings via form.
   
 
 First, run the development server:
